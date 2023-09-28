@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.box{
+    border: 5px solid tomato;
+    margin: 50px 25%;
+    padding: 50px;
+    border-radius: 10px;
+    background-color: lightblue;
+    text-align: center;
+}
